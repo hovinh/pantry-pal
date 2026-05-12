@@ -1,0 +1,36 @@
+name: Indonesian Tempeh Rice
+cuisine: Indonesian
+servings: 2
+tags: [main course, vegetarian, quick]
+
+description: |
+  1. Heat oil in a large skillet over medium heat. Add minced garlic and sauté until fragrant, about 1 minute.
+  2. Add diced tempeh to the skillet and cook for 5-7 minutes until golden brown on all sides.
+  3. Stir in cooked rice, soy sauce, and chili paste (if using). Cook for another 2-3 minutes until everything is well combined and heated through.
+  4. Serve immediately, garnished with chopped green onions and a squeeze of lime juice if desired.
+
+ingredients:
+  - ingredient: carrot
+    quantity_g: 200
+  - ingredient: cucumber
+    quantity_g: 100
+  - ingredient: sesame oil
+    quantity_ml: 10
+  - ingredient: coriander
+    quantity_g: 5
+  - ingredient: garlic
+    quantity_g: 5
+  - ingredient: roasted sesame seeds
+    quantity_g: 10
+  - ingredient: pepper
+    quantity_g: 2
+  - ingredient: chili flakes
+    quantity_g: 2
+  - ingredient: soy sauce
+    quantity_ml: 15
+  - ingredient: vinegar
+    quantity_ml: 10
+  - ingredient: sugar
+    quantity_g: 5
+  - ingredient: water
+    quantity_ml: 20

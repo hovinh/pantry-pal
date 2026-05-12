@@ -1,0 +1,36 @@
+name: Mackerel Fish Cake with Tomato Sauce 
+cuisine: Vietnamese
+servings: 2
+tags: [main course, seafood, quick]
+
+description: |
+  1. In a bowl, combine the canned mackerel (drained and flaked), diced tomatoes, minced garlic, chopped coriander, soy sauce, vinegar, sugar, pepper, and chili flakes. Mix well to combine all the ingredients.
+  2. Form the mixture into small patties or cakes.
+  3. Heat sesame oil in a skillet over medium heat. Cook the fish cakes for about 3-4 minutes on each side until they are golden brown and cooked through.
+  4. Serve the fish cakes hot, garnished with roasted sesame seeds and additional chopped coriander if desired.
+
+ingredients:
+  - ingredient: carrot
+    quantity_g: 200
+  - ingredient: cucumber
+    quantity_g: 100
+  - ingredient: sesame oil
+    quantity_ml: 10
+  - ingredient: coriander
+    quantity_g: 5
+  - ingredient: garlic
+    quantity_g: 5
+  - ingredient: roasted sesame seeds
+    quantity_g: 10
+  - ingredient: pepper
+    quantity_g: 2
+  - ingredient: chili flakes
+    quantity_g: 2
+  - ingredient: soy sauce
+    quantity_ml: 15
+  - ingredient: vinegar
+    quantity_ml: 10
+  - ingredient: sugar
+    quantity_g: 5
+  - ingredient: water
+    quantity_ml: 20

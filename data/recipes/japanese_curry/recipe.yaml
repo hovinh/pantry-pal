@@ -1,0 +1,39 @@
+name: Japanese Curry
+cuisine: Japanese
+servings: 2
+tags: [main course, hearty, family-friendly]
+
+description: |
+  1. Heat oil in a large pot over medium heat. Add chopped onions and sauté until translucent, about 5 minutes.
+  2. Add minced garlic and grated ginger to the pot and cook for another minute until fragrant.
+  3. Add diced carrots and potatoes to the pot and cook for 5 minutes, stirring occasionally.
+  4. Pour in the water and bring to a boil. Reduce heat to low and simmer until the vegetables are tender, about 15-20 minutes.
+  5. Break the curry roux into pieces and add it to the pot. Stir until the roux is completely dissolved and the sauce thickens, about 5 minutes.
+  6. Add diced chicken to the pot and cook until the chicken is cooked through, about 10 minutes.
+  7. Serve the curry hot over steamed rice, garnished with chopped parsley if desired.
+  
+ingredients:
+  - ingredient: carrot
+    quantity_g: 200
+  - ingredient: cucumber
+    quantity_g: 100
+  - ingredient: sesame oil
+    quantity_ml: 10
+  - ingredient: coriander
+    quantity_g: 5
+  - ingredient: garlic
+    quantity_g: 5
+  - ingredient: roasted sesame seeds
+    quantity_g: 10
+  - ingredient: pepper
+    quantity_g: 2
+  - ingredient: chili flakes
+    quantity_g: 2
+  - ingredient: soy sauce
+    quantity_ml: 15
+  - ingredient: vinegar
+    quantity_ml: 10
+  - ingredient: sugar
+    quantity_g: 5
+  - ingredient: water
+    quantity_ml: 20

@@ -1,0 +1,36 @@
+name: Red Bean Sweet Soup
+cuisine: Chinese
+servings: 2
+tags: [dessert, vegetarian, make-ahead]
+
+description: |
+  1. Rinse the red beans and soak them in water for at least 4 hours or overnight.
+  2. Drain the soaked beans and place them in a pot with 4 cups of water. Bring to a boil, then reduce heat and simmer for about 1 hour until the beans are soft.
+  3. Add sugar to the pot and stir until it dissolves. Simmer for another 10 minutes to allow the flavors to meld together.
+  4. Serve the sweet soup warm or chilled, garnished with a drizzle of coconut milk if desired.
+      
+ingredients:
+  - ingredient: carrot
+    quantity_g: 200
+  - ingredient: cucumber
+    quantity_g: 100
+  - ingredient: sesame oil
+    quantity_ml: 10
+  - ingredient: coriander
+    quantity_g: 5
+  - ingredient: garlic
+    quantity_g: 5
+  - ingredient: roasted sesame seeds
+    quantity_g: 10
+  - ingredient: pepper
+    quantity_g: 2
+  - ingredient: chili flakes
+    quantity_g: 2
+  - ingredient: soy sauce
+    quantity_ml: 15
+  - ingredient: vinegar
+    quantity_ml: 10
+  - ingredient: sugar
+    quantity_g: 5
+  - ingredient: water
+    quantity_ml: 20
