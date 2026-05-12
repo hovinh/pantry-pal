@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(.venv/Scripts/pip install *)",
+      "Bash(wait *)",
+      "Bash(.venv/Scripts/pip show *)",
+      "Bash(mkdir -p data/recipes/pasta_arrabbiata data/recipes/chicken_stir_fry data/recipes/green_salad utils && echo \"Directories created\")",
+      "Bash(.venv/Scripts/python -c ' *)",
+      "Bash(.venv/Scripts/python -m py_compile app.py pages/1_Ingredient_Picker.py pages/2_Nutrition.py utils/data_loader.py)",
+      "Bash(mkdir -p .vscode && echo \"created\")",
+      "Bash(.venv/Scripts/python -m py_compile app.py pages/recipe_gallery.py pages/1_Ingredient_Picker.py pages/2_Nutrition.py utils/data_loader.py)"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\hxvin\\Documents\\GitHub\\pantry-pal\\data\\recipes",
+      "c:\\Users\\hxvin\\Documents\\GitHub\\pantry-pal"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+name: Green Salad with Feta
+cuisine: Mediterranean
+servings: 2
+tags: [vegetarian, light, no-cook]
+description: |
+  1. Wash and roughly chop kale; massage with a pinch of salt for 1 min to soften.
+  2. Halve cherry tomatoes and slice cucumber. Add to the kale.
+  3. Crumble feta over the top.
+  4. Drizzle with olive oil and a squeeze of lemon, then toss and serve.
+
+ingredients:
+  - ingredient: kale
+    quantity_g: 100
+  - ingredient: cucumber
+    quantity_g: 150
+  - ingredient: cherry_tomato
+    quantity_g: 100
+  - ingredient: feta_cheese
+    quantity_g: 60
+  - ingredient: olive_oil
+    quantity_g: 15
+  - ingredient: lemon
+    quantity_g: 30

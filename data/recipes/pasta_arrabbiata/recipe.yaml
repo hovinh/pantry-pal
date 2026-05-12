@@ -1,0 +1,21 @@
+name: Pasta Arrabbiata
+cuisine: Italian
+servings: 2
+tags: [vegetarian, pasta, spicy]
+description: |
+  1. Boil pasta in salted water until al dente, then drain.
+  2. Warm olive oil in a pan over medium heat. Add garlic and chili flakes; cook 1 min until fragrant.
+  3. Add canned tomato, season with salt, and simmer 10 min until slightly thickened.
+  4. Toss pasta in the sauce and serve immediately.
+
+ingredients:
+  - ingredient: pasta
+    quantity_g: 200
+  - ingredient: canned_tomato
+    quantity_g: 400
+  - ingredient: olive_oil
+    quantity_g: 20
+  - ingredient: garlic
+    quantity_g: 15
+  - ingredient: chili_flakes
+    quantity_g: 2
