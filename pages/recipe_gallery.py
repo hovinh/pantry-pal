@@ -33,9 +33,14 @@ else:
         for col, recipe in zip(cols, filtered[i : i + COLS]):
             with col:
                 with st.container(border=True):
-                    if recipe.image_path:
-                        st.image(str(recipe.image_path), use_container_width=True)
-                    else:
+                    _showed_image = False
+                    if recipe.image_path and recipe.image_path.exists():
+                        try:
+                            st.image(recipe.image_path.read_bytes(), use_container_width=True)
+                            _showed_image = True
+                        except Exception:
+                            pass
+                    if not _showed_image:
                         st.markdown(
                             "<div style='height:160px;background:#f5f5f5;display:flex;"
                             "align-items:center;justify-content:center;border-radius:8px;"

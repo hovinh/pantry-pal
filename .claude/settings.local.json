@@ -8,7 +8,8 @@
       "Bash(.venv/Scripts/python -c ' *)",
       "Bash(.venv/Scripts/python -m py_compile app.py pages/1_Ingredient_Picker.py pages/2_Nutrition.py utils/data_loader.py)",
       "Bash(mkdir -p .vscode && echo \"created\")",
-      "Bash(.venv/Scripts/python -m py_compile app.py pages/recipe_gallery.py pages/1_Ingredient_Picker.py pages/2_Nutrition.py utils/data_loader.py)"
+      "Bash(.venv/Scripts/python -m py_compile app.py pages/recipe_gallery.py pages/1_Ingredient_Picker.py pages/2_Nutrition.py utils/data_loader.py)",
+      "Bash(.venv/Scripts/python -m py_compile pages/recipe_gallery.py)"
     ],
     "additionalDirectories": [
       "c:\\Users\\hxvin\\Documents\\GitHub\\pantry-pal\\data\\recipes",
