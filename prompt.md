@@ -37,3 +37,14 @@ Constraints:
 - Format: .png format.
 - No captioning.
 
+# Ingredient Info
+
+The most reliable free source is the USDA FoodData Central database: https://fdc.nal.usda.gov/
+
+How to look up any ingredient:
+- Search the ingredient name (e.g. "raw garlic")
+- Pick the entry labelled SR Legacy or Foundation Foods — these are the scientifically verified entries
+- Read off the values per 100g from the nutrition panel
+- Always use the raw/uncooked value unless your recipe specifies otherwise — cooking changes weight and concentration
+- calories in USDA is listed as Energy (kcal) — use that row, not the kJ one
+- Values are already per 100g in the USDA panel, matching our schema directly
