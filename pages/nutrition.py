@@ -74,14 +74,14 @@ if mode == "Recipe":
     for display_name, qty_g, n in ingredient_contributions(recipe, ingredients):
         rows.append({
             "Ingredient": display_name,
-            "Qty (g)": int(qty_g) if qty_g is not None else "—",
-            "Calories (kcal)": round(n.calories, 1) if n is not None else "—",
-            "Protein (g)": round(n.protein_g, 1) if n is not None else "—",
-            "Fiber (g)": round(n.fiber_g, 1) if n is not None else "—",
-            "Fat (g)": round(n.fat_g, 1) if n is not None else "—",
-            "Carbs (g)": round(n.carbs_g, 1) if n is not None else "—",
+            "Qty (g)": str(int(qty_g)) if qty_g is not None else "—",
+            "Calories (kcal)": f"{n.calories:.1f}" if n is not None else "—",
+            "Protein (g)": f"{n.protein_g:.1f}" if n is not None else "—",
+            "Fiber (g)": f"{n.fiber_g:.1f}" if n is not None else "—",
+            "Fat (g)": f"{n.fat_g:.1f}" if n is not None else "—",
+            "Carbs (g)": f"{n.carbs_g:.1f}" if n is not None else "—",
         })
-    st.dataframe(pd.DataFrame(rows), use_container_width=True, hide_index=True)
+    st.dataframe(pd.DataFrame(rows), width="stretch", hide_index=True)
 
 else:  # Ingredient
     ing_map = {v.display_name: v for v in ingredients.values()}

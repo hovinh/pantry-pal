@@ -36,7 +36,7 @@ else:
                     _showed_image = False
                     if recipe.image_path and recipe.image_path.exists():
                         try:
-                            st.image(recipe.image_path.read_bytes(), use_container_width=True)
+                            st.image(recipe.image_path.read_bytes(), width="stretch")
                             _showed_image = True
                         except Exception:
                             pass
