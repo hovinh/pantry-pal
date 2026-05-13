@@ -537,3 +537,23 @@ lemon:
     fiber_g: 2.8
     fat_g: 0.3
     carbs_g: 9.3
+
+pine_nuts:
+  display_name: Pine Nuts
+  group: Pantry
+  nutrition_per_100g:
+    calories: 673
+    protein_g: 13.7
+    fiber_g: 3.7
+    fat_g: 68.4
+    carbs_g: 13.1
+
+basil:
+  display_name: Fresh Basil
+  group: Vegetables
+  nutrition_per_100g:
+    calories: 22
+    protein_g: 3.2
+    fiber_g: 1.6
+    fat_g: 0.6
+    carbs_g: 2.7

@@ -1,0 +1,34 @@
+name: Broccoli Pesto Pasta
+cuisine: Italian
+servings: 2
+tags: [vegetarian, pasta, quick]
+
+description: |
+  1. Cook pasta in well-salted boiling water until al dente. In the last 4 minutes, add all the broccoli florets to the same pot. Reserve 120 ml pasta water, then drain both together.
+  2. Set aside one-third of the broccoli florets for texture. Transfer the rest to a food processor.
+  3. Add pine nuts, garlic, Parmesan, lemon juice, and olive oil to the processor. Blitz until a coarse pesto forms, adding a splash of pasta water to loosen if needed. Season with salt and black pepper.
+  4. Return pasta and reserved florets to the pot over low heat. Spoon in the broccoli pesto and toss well, adding reserved pasta water a little at a time until the sauce coats every strand.
+  5. Serve immediately, topped with extra Parmesan, a drizzle of olive oil, and fresh basil leaves.
+
+ingredients:
+  - ingredient: pasta
+    quantity_g: 200
+  - ingredient: broccoli
+    quantity_g: 300
+  - ingredient: pine_nuts
+    quantity_g: 30
+  - ingredient: parmesan_cheese
+    quantity_g: 40
+  - ingredient: garlic
+    quantity_cloves: 1
+    quantity_g: 5
+  - ingredient: olive_oil
+    quantity_g: 40
+  - ingredient: lemon
+    quantity_g: 15
+  - ingredient: basil
+    quantity_g: 10
+  - ingredient: salt
+    quantity_tsp: 0.5
+  - ingredient: black_pepper
+    quantity_tsp: 0.25
