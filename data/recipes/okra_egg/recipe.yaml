@@ -1,43 +1,29 @@
-name: Stir‑Fried Okra Egg
+name: Stir-Fried Okra with Egg
 cuisine: Chinese
 servings: 2
 tags: [main course, vegetarian, quick]
 
 description: |
-  1. Rinse the okra and cut off the tops.
-  2. Heat the sesame oil in a wok or large skillet over high heat.
-  3. Add the garlic and coriander and stir for about 30 seconds until fragrant.
-  4. Add the okra and stir-fry for about 5 minutes until tender.
-  5. Push the okra to the side of the wok and crack the eggs into the empty space.
-  6. Scramble the eggs until cooked through.
-  7. Add the soy sauce, vinegar, and sugar and stir to combine.
-  8. Serve hot with rice.
-  2. Drain the soaked beans and place them in a pot with 4 cups of water. Bring to a boil, then reduce heat and simmer for about 1 hour until the beans are soft.
-  3. Add sugar to the pot and stir until it dissolves. Simmer for another 10 minutes to allow the flavors to meld together.
-  4. Serve the sweet soup warm or chilled, garnished with a drizzle of coconut milk if desired.
-      
+  1. Trim the tops from the okra and slice diagonally into 2 cm pieces. Pat dry to reduce stickiness.
+  2. Heat sesame oil in a wok over high heat. Add minced garlic and stir-fry for 30 seconds until fragrant.
+  3. Add okra and stir-fry for 3–4 minutes until bright green and just tender, but still with a slight bite.
+  4. Push okra to the sides of the wok. Crack eggs into the centre and scramble until just set.
+  5. Toss everything together. Add soy sauce and oyster sauce; stir-fry for 1 more minute.
+  6. Garnish with sliced spring onion and serve over steamed rice.
+
 ingredients:
-  - ingredient: carrot
+  - ingredient: okra
     quantity_g: 200
-  - ingredient: cucumber
-    quantity_g: 100
-  - ingredient: sesame oil
-    quantity_ml: 10
-  - ingredient: coriander
-    quantity_g: 5
+  - ingredient: eggs
+    quantity: 2
+    quantity_g: 110
   - ingredient: garlic
-    quantity_g: 5
-  - ingredient: roasted sesame seeds
     quantity_g: 10
-  - ingredient: pepper
-    quantity_g: 2
-  - ingredient: chili flakes
-    quantity_g: 2
-  - ingredient: soy sauce
-    quantity_ml: 15
-  - ingredient: vinegar
-    quantity_ml: 10
-  - ingredient: sugar
-    quantity_g: 5
-  - ingredient: water
-    quantity_ml: 20
+  - ingredient: sesame_oil
+    quantity_g: 10
+  - ingredient: soy_sauce
+    quantity_g: 15
+  - ingredient: oyster_sauce
+    quantity_g: 15
+  - ingredient: spring_onion
+    quantity_g: 20

@@ -1,36 +1,22 @@
 name: Red Bean Sweet Soup
 cuisine: Chinese
-servings: 2
-tags: [dessert, vegetarian, make-ahead]
+servings: 4
+tags: [dessert, vegetarian, make-ahead, gluten-free]
 
 description: |
-  1. Rinse the red beans and soak them in water for at least 4 hours or overnight.
-  2. Drain the soaked beans and place them in a pot with 4 cups of water. Bring to a boil, then reduce heat and simmer for about 1 hour until the beans are soft.
-  3. Add sugar to the pot and stir until it dissolves. Simmer for another 10 minutes to allow the flavors to meld together.
-  4. Serve the sweet soup warm or chilled, garnished with a drizzle of coconut milk if desired.
-      
+  1. Rinse red beans and soak in cold water for 6–8 hours (or overnight). Drain.
+  2. Place soaked beans in a pot with 1.2 litres of fresh water and the pandan leaves. Bring to a boil.
+  3. Skim any foam, then reduce heat to low. Simmer uncovered for 60–75 minutes until beans are soft and some have split open.
+  4. Add rock sugar and stir until fully dissolved. Simmer for a further 10 minutes.
+  5. Remove pandan leaves. Ladle into bowls and drizzle with coconut milk before serving.
+  6. Can be served warm, at room temperature, or chilled.
+
 ingredients:
-  - ingredient: carrot
+  - ingredient: red_beans
     quantity_g: 200
-  - ingredient: cucumber
+  - ingredient: rock_sugar
+    quantity_g: 80
+  - ingredient: coconut_milk
     quantity_g: 100
-  - ingredient: sesame oil
-    quantity_ml: 10
-  - ingredient: coriander
-    quantity_g: 5
-  - ingredient: garlic
-    quantity_g: 5
-  - ingredient: roasted sesame seeds
-    quantity_g: 10
-  - ingredient: pepper
-    quantity_g: 2
-  - ingredient: chili flakes
-    quantity_g: 2
-  - ingredient: soy sauce
-    quantity_ml: 15
-  - ingredient: vinegar
-    quantity_ml: 10
-  - ingredient: sugar
-    quantity_g: 5
-  - ingredient: water
-    quantity_ml: 20
+  - ingredient: pandan
+    quantity_leaves: 3

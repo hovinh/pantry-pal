@@ -1,36 +1,35 @@
 name: Carrot Salad
 cuisine: Asian
 servings: 2
-tags: [vegetarian, appetizer, quick]
+tags: [vegetarian, appetizer, quick, no-cook]
 
 description: |
-  1. Julienne carrots and cucumber. Mince garlic and coriander.
-  2. In a bowl, whisk together sesame oil, soy sauce, vinegar, sugar, water, pepper, and chili flakes to make the dressing.
-  3. Toss the carrots and cucumber with the dressing until well coated.
-  4. Garnish with roasted sesame seeds and chopped coriander before serving.
-  
+  1. Julienne carrots and slice cucumber into thin half-moons.
+  2. Mince garlic finely. Roughly chop fresh coriander.
+  3. In a large bowl, whisk together sesame oil, soy sauce, rice vinegar, sugar, black pepper, and chili flakes to make the dressing.
+  4. Add carrots, cucumber, and garlic to the bowl. Toss well until evenly coated.
+  5. Transfer to a serving plate. Top with roasted sesame seeds and fresh coriander before serving.
+
 ingredients:
   - ingredient: carrot
     quantity_g: 200
   - ingredient: cucumber
     quantity_g: 100
-  - ingredient: sesame oil
-    quantity_ml: 10
-  - ingredient: coriander
-    quantity_g: 5
   - ingredient: garlic
     quantity_g: 5
-  - ingredient: roasted sesame seeds
+  - ingredient: coriander
+    quantity_g: 8
+  - ingredient: sesame_oil
     quantity_g: 10
-  - ingredient: pepper
-    quantity_g: 2
-  - ingredient: chili flakes
-    quantity_g: 2
-  - ingredient: soy sauce
-    quantity_ml: 15
-  - ingredient: vinegar
-    quantity_ml: 10
+  - ingredient: soy_sauce
+    quantity_g: 15
+  - ingredient: rice_vinegar
+    quantity_g: 10
   - ingredient: sugar
     quantity_g: 5
-  - ingredient: water
-    quantity_ml: 20
+  - ingredient: black_pepper
+    quantity_g: 1
+  - ingredient: chili_flakes
+    quantity_g: 2
+  - ingredient: roasted_sesame_seeds
+    quantity_g: 10

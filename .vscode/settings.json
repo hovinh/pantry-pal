@@ -1,5 +1,3 @@
 {
-  "yaml.schemas": {
-    "": ["data/**/*.yaml"]
-  }
+  "yaml.schemaStore.enable": false
 }

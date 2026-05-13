@@ -1,37 +1,36 @@
 name: Sushi Bake
 cuisine: Japanese
-servings: 2
-tags: [main course, family-friendly, make-ahead]
+servings: 4
+tags: [main course, family-friendly, make-ahead, baked]
 
 description: |
-  1. Heat oil in a large skillet over medium heat. Add minced garlic and sauté until fragrant, about 1 minute.
-  2. Add julienned carrots and cucumber to the skillet and cook for 2-3 minutes until slightly tender.
-  3. In a small bowl, whisk together soy sauce, vinegar, sugar, water, pepper, and chili flakes to make the sauce.
-  4. Add the cooked noodles to the skillet with the vegetables and pour the sauce over them. Toss everything together until well coated and heated through.
-  5. Serve immediately, garnished with roasted sesame seeds and chopped coriander if desired.
-    
+  1. Cook sushi rice according to package instructions. While still hot, fold in rice vinegar, sugar, and salt. Spread evenly into a greased 20×30 cm baking dish.
+  2. Preheat oven to 200 °C (390 °F).
+  3. In a bowl, combine shredded imitation crab, cream cheese, Japanese mayo, and sriracha. Mix until smooth.
+  4. Spread the crab mixture evenly over the rice layer.
+  5. Sprinkle furikake generously over the top.
+  6. Bake for 15–20 minutes until the top is golden and bubbling.
+  7. Remove from oven and sprinkle with another layer of furikake.
+  8. Serve scooped onto individual nori sheets and roll to eat.
+
 ingredients:
-  - ingredient: carrot
-    quantity_g: 200
-  - ingredient: cucumber
-    quantity_g: 100
-  - ingredient: sesame oil
-    quantity_ml: 10
-  - ingredient: coriander
-    quantity_g: 5
-  - ingredient: garlic
-    quantity_g: 5
-  - ingredient: roasted sesame seeds
-    quantity_g: 10
-  - ingredient: pepper
-    quantity_g: 2
-  - ingredient: chili flakes
-    quantity_g: 2
-  - ingredient: soy sauce
-    quantity_ml: 15
-  - ingredient: vinegar
-    quantity_ml: 10
+  - ingredient: sushi_rice
+    quantity_g: 400
+  - ingredient: rice_vinegar
+    quantity_g: 30
   - ingredient: sugar
+    quantity_g: 15
+  - ingredient: salt
     quantity_g: 5
-  - ingredient: water
-    quantity_ml: 20
+  - ingredient: imitation_crab
+    quantity_g: 200
+  - ingredient: cream_cheese
+    quantity_g: 80
+  - ingredient: japanese_mayo
+    quantity_g: 40
+  - ingredient: sriracha
+    quantity_g: 15
+  - ingredient: furikake
+    quantity_g: 20
+  - ingredient: nori
+    quantity_g: 10

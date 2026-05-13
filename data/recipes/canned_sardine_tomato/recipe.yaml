@@ -1,37 +1,34 @@
-name: Canned Sardine Stir-fried with Tomato
+name: Canned Sardine Stir-Fried with Tomato
 cuisine: Asian
 servings: 2
-tags: [main course, quick, pantry-friendly]
+tags: [main course, quick, pantry-friendly, seafood]
 
 description: |
-  1. Heat oil in a large skillet over medium heat. Add minced garlic and sauté until fragrant, about 1 minute.
-  2. Add julienned carrots and cucumber to the skillet and cook for 2-3 minutes until slightly tender.
-  3. In a small bowl, whisk together soy sauce, vinegar, sugar, water, pepper, and chili flakes to make the sauce.
-  4. Add the cooked noodles to the skillet with the vegetables and pour the sauce over them. Toss everything together until well coated and heated through.
-  5. Serve immediately, garnished with roasted sesame seeds and chopped coriander if desired.
-    
+  1. Drain the canned sardines. If using whole sardines, roughly break them into large chunks.
+  2. Heat olive oil in a pan over medium heat. Add minced garlic and sliced onion; sauté for 3 minutes until softened.
+  3. Add canned tomato and stir. Cook for 5 minutes until the sauce deepens in colour.
+  4. Add sardines, soy sauce, sugar, chili flakes, and black pepper. Stir gently to combine without breaking up the fish too much.
+  5. Simmer for 3–4 minutes until the sauce is slightly reduced.
+  6. Garnish with fresh coriander and serve over steamed rice.
+
 ingredients:
-  - ingredient: carrot
+  - ingredient: canned_sardine
     quantity_g: 200
-  - ingredient: cucumber
+  - ingredient: canned_tomato
+    quantity_g: 200
+  - ingredient: onion
     quantity_g: 100
-  - ingredient: sesame oil
-    quantity_ml: 10
-  - ingredient: coriander
-    quantity_g: 5
   - ingredient: garlic
-    quantity_g: 5
-  - ingredient: roasted sesame seeds
     quantity_g: 10
-  - ingredient: pepper
-    quantity_g: 2
-  - ingredient: chili flakes
-    quantity_g: 2
-  - ingredient: soy sauce
-    quantity_ml: 15
-  - ingredient: vinegar
-    quantity_ml: 10
+  - ingredient: olive_oil
+    quantity_g: 15
+  - ingredient: soy_sauce
+    quantity_g: 10
   - ingredient: sugar
     quantity_g: 5
-  - ingredient: water
-    quantity_ml: 20
+  - ingredient: chili_flakes
+    quantity_g: 2
+  - ingredient: coriander
+    quantity_g: 5
+  - ingredient: black_pepper
+    quantity_g: 1

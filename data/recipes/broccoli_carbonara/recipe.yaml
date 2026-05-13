@@ -1,39 +1,33 @@
 name: Broccoli Carbonara
 cuisine: Italian
 servings: 2
-tags: [vegetarian, main course, quick]
+tags: [vegetarian, pasta, quick]
 
 description: |
-  1. Cook pasta according to package instructions until al dente. Drain and set aside.
-  2. In a large skillet, heat olive oil over medium heat. Add minced garlic and sauté until fragrant, about 1 minute.
-  3. Add chopped broccoli to the skillet and cook until tender, about 5-7 minutes.
-  4. In a bowl, whisk together eggs, grated Parmesan cheese, salt, and pepper.
-  5. Add the cooked pasta to the skillet with the broccoli and toss to combine. Remove from heat.
-  6. Slowly pour the egg mixture over the pasta, tossing quickly to create a creamy sauce. The residual heat will cook the eggs without scrambling them.
-  7. Serve immediately, garnished with additional Parmesan cheese and chopped parsley if desired.
-  
+  1. Cook pasta in well-salted boiling water until al dente. Reserve 120 ml pasta water, then drain.
+  2. Cut broccoli into small florets. Add to the pasta water in the last 3 minutes of cooking, then drain together.
+  3. In a bowl, whisk eggs and finely grated Parmesan until combined. Season generously with black pepper.
+  4. Heat olive oil in a large pan over medium heat. Add minced garlic and sauté for 1 minute until fragrant. Remove from heat.
+  5. Add the hot pasta and broccoli to the pan. Pour the egg mixture over and toss quickly, adding reserved pasta water a splash at a time until the sauce is creamy and coats the pasta.
+  6. Serve immediately with extra Parmesan and black pepper.
+
 ingredients:
-  - ingredient: carrot
+  - ingredient: pasta
     quantity_g: 200
-  - ingredient: cucumber
-    quantity_g: 100
-  - ingredient: sesame oil
-    quantity_ml: 10
-  - ingredient: coriander
-    quantity_g: 5
+  - ingredient: broccoli
+    quantity_g: 200
+  - ingredient: eggs
+    quantity: 2
+    quantity_g: 110
+  - ingredient: parmesan_cheese
+    quantity_g: 50
   - ingredient: garlic
-    quantity_g: 5
-  - ingredient: roasted sesame seeds
+    quantity_cloves: 2
     quantity_g: 10
-  - ingredient: pepper
-    quantity_g: 2
-  - ingredient: chili flakes
-    quantity_g: 2
-  - ingredient: soy sauce
-    quantity_ml: 15
-  - ingredient: vinegar
-    quantity_ml: 10
-  - ingredient: sugar
-    quantity_g: 5
-  - ingredient: water
-    quantity_ml: 20
+  - ingredient: olive_oil
+    quantity_tbsp: 2
+    quantity_g: 27
+  - ingredient: salt
+    quantity_tsp: 0.5
+  - ingredient: black_pepper
+    quantity_tsp: 0.5

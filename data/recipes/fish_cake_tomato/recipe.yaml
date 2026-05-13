@@ -1,36 +1,35 @@
-name: Mackerel Fish Cake with Tomato Sauce 
+name: Mackerel Fish Cake with Tomato Sauce
 cuisine: Vietnamese
 servings: 2
 tags: [main course, seafood, quick]
 
 description: |
-  1. In a bowl, combine the canned mackerel (drained and flaked), diced tomatoes, minced garlic, chopped coriander, soy sauce, vinegar, sugar, pepper, and chili flakes. Mix well to combine all the ingredients.
-  2. Form the mixture into small patties or cakes.
-  3. Heat sesame oil in a skillet over medium heat. Cook the fish cakes for about 3-4 minutes on each side until they are golden brown and cooked through.
-  4. Serve the fish cakes hot, garnished with roasted sesame seeds and additional chopped coriander if desired.
+  1. Drain and flake canned mackerel into a bowl. Add one beaten egg, chopped coriander, black pepper, and chili flakes. Mix until combined, then shape into small round patties about 1.5 cm thick.
+  2. Heat vegetable oil in a skillet over medium heat. Pan-fry fish cakes for 3–4 minutes per side until golden brown. Remove and set aside.
+  3. In the same skillet, sauté minced garlic and diced onion for 2 minutes until softened.
+  4. Add diced tomato and soy sauce; cook for 5–7 minutes, stirring occasionally, until the tomatoes break down into a saucy consistency.
+  5. Return fish cakes to the pan and simmer in the sauce for 3 minutes.
+  6. Serve hot over steamed rice, garnished with fresh coriander.
 
 ingredients:
-  - ingredient: carrot
+  - ingredient: canned_mackerel
     quantity_g: 200
-  - ingredient: cucumber
-    quantity_g: 100
-  - ingredient: sesame oil
-    quantity_ml: 10
-  - ingredient: coriander
-    quantity_g: 5
+  - ingredient: tomato
+    quantity_g: 200
+  - ingredient: eggs
+    quantity: 1
+    quantity_g: 55
   - ingredient: garlic
-    quantity_g: 5
-  - ingredient: roasted sesame seeds
     quantity_g: 10
-  - ingredient: pepper
+  - ingredient: onion
+    quantity_g: 80
+  - ingredient: coriander
+    quantity_g: 8
+  - ingredient: soy_sauce
+    quantity_g: 10
+  - ingredient: chili_flakes
     quantity_g: 2
-  - ingredient: chili flakes
-    quantity_g: 2
-  - ingredient: soy sauce
-    quantity_ml: 15
-  - ingredient: vinegar
-    quantity_ml: 10
-  - ingredient: sugar
-    quantity_g: 5
-  - ingredient: water
-    quantity_ml: 20
+  - ingredient: black_pepper
+    quantity_g: 1
+  - ingredient: vegetable_oil
+    quantity_g: 15

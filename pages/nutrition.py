@@ -161,10 +161,10 @@ if mode == "Recipe":
     st.caption("Ingredients without a quantity are excluded from the nutrition totals.")
 
     rows = []
-    for display_name, qty_g, n in ingredient_contributions(recipe, ingredients):
+    for display_name, qty_display, n in ingredient_contributions(recipe, ingredients):
         rows.append({
             "Ingredient": display_name,
-            "Qty (g)": str(int(qty_g)) if qty_g is not None else "—",
+            "Quantity": qty_display,
             "Calories (kcal)": f"{n.calories:.1f}" if n is not None else "—",
             "Protein (g)": f"{n.protein_g:.1f}" if n is not None else "—",
             "Fiber (g)": f"{n.fiber_g:.1f}" if n is not None else "—",

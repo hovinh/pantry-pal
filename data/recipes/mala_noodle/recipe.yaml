@@ -4,35 +4,28 @@ servings: 2
 tags: [spicy, main course, quick]
 
 description: |
-  1. Cook noodles according to package instructions until al dente. Drain and set aside.
-  2. In a large skillet, heat sesame oil over medium heat. Add minced garlic and sauté until fragrant, about 1 minute.
-  3. Add julienned carrots and cucumber to the skillet and cook for 2-3 minutes until slightly tender.
-  4. In a small bowl, whisk together soy sauce, vinegar, sugar, water, pepper, and chili flakes to make the sauce.
-  5. Add the cooked noodles to the skillet with the vegetables and pour the sauce over them. Toss everything together until well coated and heated through.
-  6. Serve immediately, garnished with roasted sesame seeds and chopped coriander if desired.
-    
+  1. Cook noodles according to package instructions until just tender. Drain and rinse briefly with cold water; set aside.
+  2. Blanch bok choy in the same boiling water for 30 seconds; drain.
+  3. In a small bowl, stir together mala paste, soy sauce, and sesame oil. Loosen with 2 tablespoons of the noodle cooking water.
+  4. Divide noodles between two bowls. Pour the mala sauce over and toss to coat.
+  5. Top with bok choy, spring onion, roasted sesame seeds, and chili flakes. Serve immediately.
+
 ingredients:
-  - ingredient: carrot
+  - ingredient: noodles
     quantity_g: 200
-  - ingredient: cucumber
+  - ingredient: mala_paste
+    quantity_g: 30
+  - ingredient: bok_choy
     quantity_g: 100
-  - ingredient: sesame oil
-    quantity_ml: 10
-  - ingredient: coriander
-    quantity_g: 5
   - ingredient: garlic
-    quantity_g: 5
-  - ingredient: roasted sesame seeds
     quantity_g: 10
-  - ingredient: pepper
-    quantity_g: 2
-  - ingredient: chili flakes
-    quantity_g: 2
-  - ingredient: soy sauce
-    quantity_ml: 15
-  - ingredient: vinegar
-    quantity_ml: 10
-  - ingredient: sugar
-    quantity_g: 5
-  - ingredient: water
-    quantity_ml: 20
+  - ingredient: sesame_oil
+    quantity_g: 10
+  - ingredient: soy_sauce
+    quantity_g: 15
+  - ingredient: roasted_sesame_seeds
+    quantity_g: 8
+  - ingredient: spring_onion
+    quantity_g: 20
+  - ingredient: chili_flakes
+    quantity_g: 3

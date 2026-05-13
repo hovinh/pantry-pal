@@ -55,7 +55,8 @@ class Ingredient:
 @dataclass
 class RecipeIngredient:
     key: str
-    quantity_g: Optional[float]  # None = "to taste"; excluded from nutrition calculation
+    quantity_g: Optional[float]   # None = excluded from nutrition calculation
+    quantity_display: str          # human-readable quantity with unit, e.g. "2 cloves", "200 g"
 
 
 @dataclass
@@ -68,6 +69,30 @@ class Recipe:
     ingredients: list[RecipeIngredient]
     image_path: Optional[Path]
     description: str = ""
+
+
+def _parse_quantity(ing: dict) -> tuple[Optional[float], str]:
+    """Extract (quantity_g, display_string) from a recipe ingredient dict.
+
+    quantity_g is None when no gram value is present (excluded from nutrition).
+    display_string covers any quantity_* key: "2 cloves", "0.5 tsp", "200 g", etc.
+    """
+    qty_g = float(ing["quantity_g"]) if "quantity_g" in ing else None
+
+    # Prefer a non-gram unit for display when one exists
+    for key, val in ing.items():
+        if key == "ingredient" or not key.startswith("quantity") or key == "quantity_g":
+            continue
+        unit = key[len("quantity"):].lstrip("_")
+        display = f"{val} {unit}".strip() if unit else str(val)
+        return qty_g, display
+
+    # Only quantity_g (or nothing) was present
+    if qty_g is not None:
+        whole = int(qty_g) if qty_g == int(qty_g) else qty_g
+        return qty_g, f"{whole} g"
+
+    return None, "—"
 
 
 def load_ingredients() -> dict[str, Ingredient]:
@@ -117,13 +142,14 @@ def load_recipes() -> list[Recipe]:
         with open(recipe_file, encoding="utf-8") as f:
             raw = yaml.safe_load(f)
 
-        recipe_ingredients = [
-            RecipeIngredient(
+        recipe_ingredients = []
+        for ing in raw.get("ingredients", []):
+            qty_g, qty_display = _parse_quantity(ing)
+            recipe_ingredients.append(RecipeIngredient(
                 key=ing["ingredient"],
-                quantity_g=float(ing["quantity_g"]) if "quantity_g" in ing else None,
-            )
-            for ing in raw.get("ingredients", [])
-        ]
+                quantity_g=qty_g,
+                quantity_display=qty_display,
+            ))
 
         recipes.append(Recipe(
             key=folder.name,
@@ -148,8 +174,8 @@ def recipe_nutrition(recipe: Recipe, ingredients: dict[str, Ingredient]) -> Nutr
 
 def ingredient_contributions(
     recipe: Recipe, ingredients: dict[str, Ingredient]
-) -> list[tuple[str, Optional[float], Optional[Nutrition]]]:
-    """Returns (display_name, quantity_g, nutrition_per_serving) for each recipe ingredient.
+) -> list[tuple[str, str, Optional[Nutrition]]]:
+    """Returns (display_name, quantity_display, nutrition_per_serving) per ingredient.
 
     nutrition_per_serving is None when quantity_g was not provided.
     """
@@ -160,10 +186,10 @@ def ingredient_contributions(
             else ri.key.replace("_", " ").title()
         )
         if ri.quantity_g is None:
-            out.append((display_name, None, None))
+            out.append((display_name, ri.quantity_display, None))
         elif ri.key in ingredients:
             n = ingredients[ri.key].nutrition.scale(ri.quantity_g).per_serving(recipe.servings)
-            out.append((display_name, ri.quantity_g, n))
+            out.append((display_name, ri.quantity_display, n))
         else:
-            out.append((display_name, ri.quantity_g, Nutrition()))
+            out.append((display_name, ri.quantity_display, Nutrition()))
     return out
