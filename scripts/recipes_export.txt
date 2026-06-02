@@ -1,0 +1,270 @@
+=== Broccoli Pesto Pasta ===
+Folder  : broccoli_pesto
+Cuisine : Italian
+Servings: 2
+Tags    : vegetarian, pasta, quick
+
+Description:
+1. Cook pasta in well-salted boiling water until al dente. In the last 4 minutes, add all the broccoli florets to the same pot. Reserve 120 ml pasta water, then drain both together.
+2. Set aside one-third of the broccoli florets for texture. Transfer the rest to a food processor.
+3. Add pine nuts, garlic, Parmesan, lemon juice, and olive oil to the processor. Blitz until a coarse pesto forms, adding a splash of pasta water to loosen if needed. Season with salt and black pepper.
+4. Return pasta and reserved florets to the pot over low heat. Spoon in the broccoli pesto and toss well, adding reserved pasta water a little at a time until the sauce coats every strand.
+5. Serve immediately, topped with extra Parmesan, a drizzle of olive oil, and fresh basil leaves.
+
+Ingredients:
+  - pasta: 200 g
+  - broccoli: 300 g
+  - pine_nuts: 30 g
+  - parmesan_cheese: 40 g
+  - garlic: 1 cloves / 5 g
+  - olive_oil: 40 g
+  - lemon: 15 g
+  - basil: 10 g
+  - salt: 0.5 tsp
+  - black_pepper: 0.25 tsp
+
+------------------------------------------------------------
+
+=== Canned Sardine Stir-Fried with Tomato ===
+Folder  : canned_sardine_tomato
+Cuisine : Asian
+Servings: 2
+Tags    : main course, quick, pantry-friendly, seafood
+
+Description:
+1. Drain the canned sardines. If using whole sardines, roughly break them into large chunks.
+2. Heat olive oil in a pan over medium heat. Add minced garlic and sliced onion; sauté for 3 minutes until softened.
+3. Add canned tomato and stir. Cook for 5 minutes until the sauce deepens in colour.
+4. Add sardines, soy sauce, sugar, chili flakes, and black pepper. Stir gently to combine without breaking up the fish too much.
+5. Simmer for 3–4 minutes until the sauce is slightly reduced.
+6. Garnish with fresh coriander and serve over steamed rice.
+
+Ingredients:
+  - canned_sardine: 200 g
+  - canned_tomato: 200 g
+  - onion: 100 g
+  - garlic: 10 g
+  - olive_oil: 15 g
+  - soy_sauce: 10 g
+  - sugar: 5 g
+  - chili_flakes: 2 g
+  - coriander: 5 g
+  - black_pepper: 1 g
+
+------------------------------------------------------------
+
+=== Carrot Salad ===
+Folder  : carrot_salad
+Cuisine : Asian
+Servings: 2
+Tags    : vegetarian, appetizer, quick, no-cook
+
+Description:
+1. Julienne carrots and slice cucumber into thin half-moons.
+2. Mince garlic finely. Roughly chop fresh coriander.
+3. In a large bowl, whisk together sesame oil, soy sauce, rice vinegar, sugar, black pepper, and chili flakes to make the dressing.
+4. Add carrots, cucumber, and garlic to the bowl. Toss well until evenly coated.
+5. Transfer to a serving plate. Top with roasted sesame seeds and fresh coriander before serving.
+
+Ingredients:
+  - carrot: 200 g
+  - cucumber: 100 g
+  - garlic: 5 g
+  - coriander: 8 g
+  - sesame_oil: 10 g
+  - soy_sauce: 15 g
+  - rice_vinegar: 10 g
+  - sugar: 5 g
+  - black_pepper: 1 g
+  - chili_flakes: 2 g
+  - roasted_sesame_seeds: 10 g
+
+------------------------------------------------------------
+
+=== Mackerel Fish Cake with Tomato Sauce ===
+Folder  : fish_cake_tomato
+Cuisine : Vietnamese
+Servings: 2
+Tags    : main course, seafood, quick
+
+Description:
+1. Drain and flake canned mackerel into a bowl. Add one beaten egg, chopped coriander, black pepper, and chili flakes. Mix until combined, then shape into small round patties about 1.5 cm thick.
+2. Heat vegetable oil in a skillet over medium heat. Pan-fry fish cakes for 3–4 minutes per side until golden brown. Remove and set aside.
+3. In the same skillet, sauté minced garlic and diced onion for 2 minutes until softened.
+4. Add diced tomato and soy sauce; cook for 5–7 minutes, stirring occasionally, until the tomatoes break down into a saucy consistency.
+5. Return fish cakes to the pan and simmer in the sauce for 3 minutes.
+6. Serve hot over steamed rice, garnished with fresh coriander.
+
+Ingredients:
+  - canned_mackerel: 200 g
+  - tomato: 200 g
+  - eggs: 1 / 55 g
+  - garlic: 10 g
+  - onion: 80 g
+  - coriander: 8 g
+  - soy_sauce: 10 g
+  - chili_flakes: 2 g
+  - black_pepper: 1 g
+  - vegetable_oil: 15 g
+
+------------------------------------------------------------
+
+=== Japanese Curry ===
+Folder  : japanese_curry
+Cuisine : Japanese
+Servings: 2
+Tags    : main course, hearty, family-friendly
+
+Description:
+1. Cut chicken breast into bite-sized pieces and season lightly with salt and black pepper.
+2. Heat vegetable oil in a large pot over medium-high heat. Brown the chicken for 3–4 minutes, then set aside.
+3. In the same pot, sauté sliced onion until golden, about 8 minutes.
+4. Add garlic and ginger; cook 1 minute until fragrant.
+5. Return chicken to the pot. Add carrots and potatoes, then pour in 600 ml water. Bring to a boil and skim any foam.
+6. Reduce heat and simmer for 15 minutes until vegetables are just tender.
+7. Break curry roux blocks into the pot and stir until fully dissolved. Simmer for 10 minutes, stirring occasionally, until the sauce thickens.
+8. Serve over steamed rice.
+
+Ingredients:
+  - chicken_breast: 300 g
+  - onion: 150 g
+  - carrot: 150 g
+  - potato: 200 g
+  - curry_roux: 80 g
+  - garlic: 10 g
+  - ginger: 5 g
+  - vegetable_oil: 15 g
+  - rice: 200 g
+  - salt: 0.25 tsp
+  - black_pepper: 0.25 tsp
+
+------------------------------------------------------------
+
+=== Mala Noodle ===
+Folder  : mala_noodle
+Cuisine : Chinese
+Servings: 2
+Tags    : spicy, main course, quick
+
+Description:
+1. Cook noodles according to package instructions until just tender. Drain and rinse briefly with cold water; set aside.
+2. Blanch bok choy in the same boiling water for 30 seconds; drain.
+3. In a small bowl, stir together mala paste, soy sauce, and sesame oil. Loosen with 2 tablespoons of the noodle cooking water.
+4. Divide noodles between two bowls. Pour the mala sauce over and toss to coat.
+5. Top with bok choy, spring onion, roasted sesame seeds, and chili flakes. Serve immediately.
+
+Ingredients:
+  - noodles: 200 g
+  - mala_paste: 30 g
+  - bok_choy: 100 g
+  - garlic: 10 g
+  - sesame_oil: 10 g
+  - soy_sauce: 15 g
+  - roasted_sesame_seeds: 8 g
+  - spring_onion: 20 g
+  - chili_flakes: 3 g
+
+------------------------------------------------------------
+
+=== Stir-Fried Okra with Egg ===
+Folder  : okra_egg
+Cuisine : Chinese
+Servings: 2
+Tags    : main course, vegetarian, quick
+
+Description:
+1. Trim the tops from the okra and slice diagonally into 2 cm pieces. Pat dry to reduce stickiness.
+2. Heat sesame oil in a wok over high heat. Add minced garlic and stir-fry for 30 seconds until fragrant.
+3. Add okra and stir-fry for 3–4 minutes until bright green and just tender, but still with a slight bite.
+4. Push okra to the sides of the wok. Crack eggs into the centre and scramble until just set.
+5. Toss everything together. Add soy sauce and oyster sauce; stir-fry for 1 more minute.
+6. Garnish with sliced spring onion and serve over steamed rice.
+
+Ingredients:
+  - okra: 200 g
+  - eggs: 2 / 110 g
+  - garlic: 10 g
+  - sesame_oil: 10 g
+  - soy_sauce: 15 g
+  - oyster_sauce: 15 g
+  - spring_onion: 20 g
+
+------------------------------------------------------------
+
+=== Red Bean Sweet Soup ===
+Folder  : red_bean_sweet_soup
+Cuisine : Chinese
+Servings: 4
+Tags    : dessert, vegetarian, make-ahead, gluten-free
+
+Description:
+1. Rinse red beans and soak in cold water for 6–8 hours (or overnight). Drain.
+2. Place soaked beans in a pot with 1.2 litres of fresh water and the pandan leaves. Bring to a boil.
+3. Skim any foam, then reduce heat to low. Simmer uncovered for 60–75 minutes until beans are soft and some have split open.
+4. Add rock sugar and stir until fully dissolved. Simmer for a further 10 minutes.
+5. Remove pandan leaves. Ladle into bowls and drizzle with coconut milk before serving.
+6. Can be served warm, at room temperature, or chilled.
+
+Ingredients:
+  - red_beans: 200 g
+  - rock_sugar: 80 g
+  - coconut_milk: 100 g
+  - pandan: 3 leaves
+
+------------------------------------------------------------
+
+=== Sushi Bake ===
+Folder  : sushi_bake
+Cuisine : Japanese
+Servings: 4
+Tags    : main course, family-friendly, make-ahead, baked
+
+Description:
+1. Cook sushi rice according to package instructions. While still hot, fold in rice vinegar, sugar, and salt. Spread evenly into a greased 20×30 cm baking dish.
+2. Preheat oven to 200 °C (390 °F).
+3. In a bowl, combine shredded imitation crab, cream cheese, Japanese mayo, and sriracha. Mix until smooth.
+4. Spread the crab mixture evenly over the rice layer.
+5. Sprinkle furikake generously over the top.
+6. Bake for 15–20 minutes until the top is golden and bubbling.
+7. Remove from oven and sprinkle with another layer of furikake.
+8. Serve scooped onto individual nori sheets and roll to eat.
+
+Ingredients:
+  - sushi_rice: 400 g
+  - rice_vinegar: 30 g
+  - sugar: 15 g
+  - salt: 5 g
+  - imitation_crab: 200 g
+  - cream_cheese: 80 g
+  - japanese_mayo: 40 g
+  - sriracha: 15 g
+  - furikake: 20 g
+  - nori: 10 g
+
+------------------------------------------------------------
+
+=== Indonesian Tempeh Rice ===
+Folder  : tempeh_rice
+Cuisine : Indonesian
+Servings: 2
+Tags    : main course, vegetarian, quick
+
+Description:
+1. Slice tempeh into thin strips or small cubes. Pat dry with paper towel.
+2. Heat vegetable oil in a wok over medium-high heat. Fry tempeh until golden and crisp on all sides, about 5–7 minutes. Remove and set aside.
+3. In the same wok, sauté minced garlic and diced onion for 2 minutes until fragrant.
+4. Add cooked rice and stir-fry, breaking up any clumps, for 2 minutes.
+5. Return tempeh to the wok. Add soy sauce and chili flakes; toss everything together for 2–3 minutes until well combined and heated through.
+6. Garnish with sliced spring onion and serve hot.
+
+Ingredients:
+  - tempeh: 200 g
+  - rice: 200 g
+  - garlic: 10 g
+  - onion: 80 g
+  - soy_sauce: 20 g
+  - chili_flakes: 3 g
+  - vegetable_oil: 15 g
+  - spring_onion: 20 g
+
+------------------------------------------------------------

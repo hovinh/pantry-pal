@@ -1,0 +1,37 @@
+name: Fried Chicken with Garlic Fish Sauce
+cuisine: Vietnamese
+servings: 2
+tags: [main course, crispy, quick]
+
+description: |
+  1. Cut chicken breast into bite-sized pieces. Season with salt and black pepper, then toss with cornstarch to coat evenly. Let rest for 10 minutes.
+  2. Heat vegetable oil in a wok or deep pan over medium-high heat. Fry chicken in batches for 4–5 minutes per side until golden and cooked through. Drain on a wire rack.
+  3. Discard most of the oil, leaving about 1 tbsp in the pan. Add minced garlic and fry over medium heat until golden and fragrant, about 2 minutes.
+  4. Add fish sauce and sugar to the pan. Stir until the sugar dissolves and the sauce begins to bubble and caramelize, about 2 minutes.
+  5. Return the fried chicken to the pan. Toss to coat every piece in the glossy garlic sauce.
+  6. Add lemon juice and toss once more. Remove from heat.
+  7. Transfer to a plate. Garnish with spring onion and chili flakes. Serve hot with steamed rice.
+
+ingredients:
+  - ingredient: chicken_breast
+    quantity_g: 500
+  - ingredient: garlic
+    quantity_g: 30
+  - ingredient: fish_sauce
+    quantity_g: 40
+  - ingredient: sugar
+    quantity_g: 30
+  - ingredient: vegetable_oil
+    quantity_g: 100
+  - ingredient: cornstarch
+    quantity_g: 40
+  - ingredient: lemon
+    quantity_g: 15
+  - ingredient: spring_onion
+    quantity_g: 20
+  - ingredient: chili_flakes
+    quantity_g: 3
+  - ingredient: salt
+    quantity_tsp: 0.5
+  - ingredient: black_pepper
+    quantity_tsp: 0.5

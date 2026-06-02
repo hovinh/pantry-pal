@@ -1,0 +1,42 @@
+name: Rice Paper Rolls with Sardines and Boiled Eggs
+cuisine: Vietnamese
+servings: 2
+tags: [appetizer, no-cook, light]
+
+description: |
+  1. Hard-boil eggs for 10 minutes, then cool under cold running water, peel, and slice into rounds.
+  2. Drain and coarsely flake the canned sardines. Julienne the carrot and cucumber. Tear lettuce into pieces.
+  3. Make the dipping sauce: combine fish sauce, sugar, lemon juice, minced garlic, and chili flakes with 3 tbsp water. Stir until sugar dissolves.
+  4. Fill a wide shallow bowl with room-temperature water. Dip one sheet of rice paper for 3–5 seconds until just pliable. Lay flat on a clean damp surface.
+  5. Arrange lettuce in the centre, then top with sardine flakes, 2–3 egg slices, carrot, cucumber, coriander, and spring onion.
+  6. Fold the left and right sides of the rice paper over the filling, then roll tightly from the bottom up to form a firm roll.
+  7. Repeat with remaining wrappers and filling.
+  8. Serve immediately with the dipping sauce on the side.
+
+ingredients:
+  - ingredient: rice_paper
+    quantity_g: 100
+  - ingredient: canned_sardine
+    quantity_g: 200
+  - ingredient: eggs
+    quantity_g: 100
+  - ingredient: lettuce
+    quantity_g: 80
+  - ingredient: cucumber
+    quantity_g: 100
+  - ingredient: carrot
+    quantity_g: 80
+  - ingredient: coriander
+    quantity_g: 20
+  - ingredient: spring_onion
+    quantity_g: 20
+  - ingredient: fish_sauce
+    quantity_g: 30
+  - ingredient: sugar
+    quantity_g: 10
+  - ingredient: lemon
+    quantity_g: 20
+  - ingredient: garlic
+    quantity_g: 5
+  - ingredient: chili_flakes
+    quantity_g: 2

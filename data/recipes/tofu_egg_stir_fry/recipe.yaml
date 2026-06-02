@@ -1,0 +1,41 @@
+name: Stir-fried Vegetables in Egg Sauce with Silky Tofu
+cuisine: Vietnamese
+servings: 2
+tags: [vegetarian, quick, stir-fry]
+
+description: |
+  1. Cut silky tofu into large cubes. Slice carrot into thin rounds. Cut bok choy into bite-sized pieces. Mince garlic.
+  2. Dissolve cornstarch in 60 ml cold water to make a slurry. Beat eggs lightly in a bowl.
+  3. Heat oil in a wok over medium-high heat. Fry garlic until fragrant, about 30 seconds.
+  4. Add carrot and stir-fry for 2 minutes until slightly softened.
+  5. Add bok choy and stir-fry for 1 minute.
+  6. Pour in oyster sauce, soy sauce, and 80 ml water. Bring to a simmer.
+  7. Gently slide in the tofu cubes and simmer for 2 minutes to warm through.
+  8. Stir in the cornstarch slurry to thicken the sauce, then immediately pour the beaten egg in a thin stream while stirring gently to create silky egg ribbons.
+  9. Season with salt and black pepper. Garnish with spring onion and serve hot with steamed rice.
+
+ingredients:
+  - ingredient: tofu
+    quantity_g: 300
+  - ingredient: eggs
+    quantity_g: 100
+  - ingredient: carrot
+    quantity_g: 80
+  - ingredient: bok_choy
+    quantity_g: 150
+  - ingredient: garlic
+    quantity_g: 10
+  - ingredient: spring_onion
+    quantity_g: 20
+  - ingredient: vegetable_oil
+    quantity_g: 20
+  - ingredient: oyster_sauce
+    quantity_g: 20
+  - ingredient: soy_sauce
+    quantity_g: 15
+  - ingredient: cornstarch
+    quantity_g: 10
+  - ingredient: salt
+    quantity_tsp: 0.25
+  - ingredient: black_pepper
+    quantity_tsp: 0.25
