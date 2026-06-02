@@ -29,7 +29,11 @@ pantry-pal/
 │           └── image.png         # Watercolour dish illustration (800×600 px, optional)
 ├── scripts/
 │   ├── export_recipes.py         # Utility: export all recipes to plain text
-│   └── recipes_export.txt        # Output of export_recipes.py
+│   ├── recipes_export.txt        # Output of export_recipes.py
+│   ├── take_screenshots.py       # Playwright script: capture app screenshots
+│   ├── make_carousel.py          # Generate LinkedIn carousel slides + PDF
+│   ├── carousel_screenshots/     # Screenshots captured by take_screenshots.py
+│   └── carousel_output/          # Generated carousel PNGs + carousel.pdf
 ├── requirements.txt
 └── .gitignore
 ```
@@ -241,6 +245,8 @@ Constraints:
 
 ## Dependencies
 
+**Core app:**
+
 | Package | Purpose |
 |---|---|
 | `streamlit >= 1.28` | Web app framework and UI components |
@@ -248,6 +254,13 @@ Constraints:
 | `pandas >= 2.0` | Building the nutrition breakdown table |
 | `pillow >= 10.0` | Image decoding for recipe photos |
 | `plotly >= 5.0` | Radar chart in Nutrition Info page |
+
+**Scripts only** (not needed to run the app):
+
+| Package | Purpose |
+|---|---|
+| `playwright >= 1.60` | Headless browser for app screenshots (`take_screenshots.py`) |
+| `img2pdf >= 0.4` | Combine PNG slides into a PDF carousel (`make_carousel.py`) |
 
 ---
 
